@@ -14,7 +14,7 @@ Repo for final project of Sequential data modelling course in My University '22.
   - plotly==5.3.1
   - sklearn==1.0.2
   - gensim==3.6.0
-  - œ–»¡À”ƒ¿  –»—¿
+  - giotto-tda==0.6.0
   - pytorch-lightning==1.5.10
   - torch==1.10.2
 
