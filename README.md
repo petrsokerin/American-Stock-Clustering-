@@ -25,7 +25,7 @@ For install all packages run
 ```
 pip install -r requirements.txt
 ```
-## Describtion
+## Description
 
 The main idea of the project is to compare different time-series embedding extraction methods for stock clustering to reduce risks of investments.
 We used S&P 500 stock prices from dates 2018-2022 to cluster them alternatively to economical sectors, and performed portfolio optimisation task in terms of risk minimisation.
